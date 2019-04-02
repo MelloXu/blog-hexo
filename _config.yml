@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -80,4 +80,4 @@ theme: material
 deploy:
   type: git
   repo: git@github.com:yukinya/yukinya.github.io.git
-  branch: gh-pages
+  branch: master
