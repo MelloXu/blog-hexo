@@ -1,6 +1,6 @@
 ---
 title: 个人常用VSCODE插件合集
-date: 20180415
+date: 2018/04/15
 tags: vscode 前端 工具
 ---
 

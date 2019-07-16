@@ -1,6 +1,6 @@
 ---
 title: 如何高效的使用Chrome
-date: 20180507
+date: 2018/05/07
 tags: 工具 浏览器 Chrome
 ---
 

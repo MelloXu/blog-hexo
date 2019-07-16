@@ -1,6 +1,6 @@
 ---
 title: ACG资源站点整理
-date: 20180615
+date: 2018/06/15
 tags: ACG 资源 网站
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: git踩坑之Permission denied
-date: 20180416
+date: 2018/04/16
 tags: git github 问题解决
 ---
 
