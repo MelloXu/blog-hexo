@@ -185,7 +185,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "mellovo@protonmail.com"
+            link: "mailto:mellovo@protonmail.com"
             icon: email
     homepage:
         use: true
