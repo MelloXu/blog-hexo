@@ -235,8 +235,8 @@ comment:
     gitment_owner:  # git repo's owner
     gitment_client_id:  # github app client id 
     gitment_client_secret :  # github app client secret 
-    valine_leancloud_appId:  # leancloud application app id
-    valine_leancloud_appKey:  # leancloud application app key
+    valine_leancloud_appId:  X5H0Bl27maQoNStheTBgLdBO-MdYXbMMI
+    valine_leancloud_appKey:  pMmzwkfuLTlXYUoR9aPNQjDs
     valine_notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
     valine_verify: false # valine verify code (true/false)
     valine_pageSize: 10 # comment list page size
@@ -267,16 +267,16 @@ analytics:
 # Leancloud Views
 leancloud:
     enable: true
-    app_id: "X5H0Bl27maQoNStheTBgLdBO-MdYXbMMI"
-    app_key: "pMmzwkfuLTlXYUoR9aPNQjDs"
+    app_id: X5H0Bl27maQoNStheTBgLdBO-MdYXbMMI
+    app_key: pMmzwkfuLTlXYUoR9aPNQjDs
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
 busuanzi:
-    enable: false
-    all_site_uv: false
+    enable: true
+    all_site_uv: true
     post_pv: false
-    busuanzi_pure_mini_js: "https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"
+    busuanzi_pure_mini_js: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
 
 # Files Vendors
 # Set a CDN for the files src you want to customize. The url should with protocol.
